@@ -8,11 +8,11 @@ This project was made using
 - CSS3 
 - CSS grid
 - 
-##Site
+## Site
 
 https://3d-color-cube.netlify.app/
 
 
-##Image
+## Image
 
 ![image](https://user-images.githubusercontent.com/98703238/210065111-eb29559b-edbe-425e-bff9-0c08cf4244c0.png)
