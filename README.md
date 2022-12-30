@@ -1,5 +1,5 @@
 # 3D-Cube
-3D animated cube made using HTML and CSS3
+3D animated cube with 360 rotation and ambient light effect made using HTML and CSS3
 ## overview 
 
 This project was made using
